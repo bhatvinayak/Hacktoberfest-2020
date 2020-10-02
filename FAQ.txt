@@ -1,0 +1,15 @@
+Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.
+Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
+
+What is a Pull Request?
+Pull requests are proposed code changes you can submit to a branch in a repository on GitHub. Once submitted, a project maintainer will review and discuss the changes before they become final.
+
+What are the rules?
+To win a shirt, you must sign up on the Hacktoberfest site and make four pull requests on GitHub by October 31st. Pull requests do not have to be merged and accepted. As long as they’ve been opened and marked as ready-for-review between the beginning of October 1 and the very end of October 31, they count toward a free T-shirt.
+
+Do contributions made outside of GitHub count?
+No, pull requests must be made on the GitHub platform and only pull requests count.
+
+I completed four pull requests. When will I receive my T-shirt?
+T-shirts (or the option to plant a tree) will be awarded on a first-come, first-serve basis to the first 70,000 participants who successfully complete the Hacktoberfest challenge. We’ll start sending out emails with more details on redeeming T-shirts throughout the month, so stay tuned.
+
